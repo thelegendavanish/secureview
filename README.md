@@ -1,5 +1,4 @@
-# 🔐 Secure View – Controlled PDF Viewing Platform
-
+# 🔐 Secure View – Controlled PDF Viewing
 Secure View is a secure, web-based PDF viewing system designed to protect confidential documents from unauthorized access, copying, downloading, and redistribution. It enables organizations to securely share sensitive PDF files while maintaining strict control over how and when the content is accessed.
 
 This solution is ideal for **examinations, legal documents, corporate reports, research material, academic evaluations, and government records**.
