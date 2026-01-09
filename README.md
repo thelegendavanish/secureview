@@ -131,3 +131,9 @@ Form automatically blocks submissions if admin closes access.
 ## 🏁 Conclusion
 
 Secure View is not just a PDF viewer, it is a secure document distribution framework that ensures complete ownership, traceability, and protection of sensitive information even after it has been shared.
+
+---
+## Contact / Reporting
+Mail at: contact@thelegendavanish.tech
+⭐ Feel free to fork, explore, or contribute!
+⭐ If you like this project, don't forget to star the repo!
