@@ -119,15 +119,15 @@ Form automatically blocks submissions if admin closes access.
    http://localhost/secure-view
 
 ---
-## Use Cases
-Online Exams & Certifications
-Legal & Compliance Documents
-Corporate Confidential Reports
-Academic Evaluations
-Government-sensitive records
+## 📌Use Cases
+- Online Exams & Certifications
+- Legal & Compliance Documents
+- Corporate Confidential Reports
+- Academic Evaluations
+- Government-sensitive records
 
 ---
 
-## Conclusion
+## 🏁 Conclusion
 
-Secure View is not just a PDF viewer — it is a secure document distribution framework that ensures complete ownership, traceability, and protection of sensitive information even after it has been shared.
+Secure View is not just a PDF viewer, it is a secure document distribution framework that ensures complete ownership, traceability, and protection of sensitive information even after it has been shared.
