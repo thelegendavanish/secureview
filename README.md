@@ -32,6 +32,10 @@ This solution is ideal for **examinations, legal documents, corporate reports, r
 ---
 
 ## 🧩 System Architecture
+Admin → Upload PDF → Create Users → Set Time Window
+User → Login → System verifies time → Render PDF securely
+User → Submit Response via Form
+Admin → Monitor → Export Submissions
 
 
 ---
