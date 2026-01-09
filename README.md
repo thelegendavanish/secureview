@@ -110,10 +110,11 @@ Form automatically blocks submissions if admin closes access.
 
 2. Import database file into MySQL.
 3. Configure database credentials in db.php.
-4. Place project folder inside:
+4. Unzip the pdfjs zip in secureview directory.
+5. Place project folder inside:
    ```bash
    htdocs/secureview
-5. Open browser:
+6. Open browser:
    ```bash
    http://localhost/secureview
 
