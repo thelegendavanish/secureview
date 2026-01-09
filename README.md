@@ -106,16 +106,16 @@ Form automatically blocks submissions if admin closes access.
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/secure-view.git
+   git clone https://github.com/thelegendavanish/secureview.git
 
 2. Import database file into MySQL.
 3. Configure database credentials in db.php.
 4. Place project folder inside:
    ```bash
-   htdocs/secure-view
+   htdocs/secureview
 5. Open browser:
    ```bash
-   http://localhost/secure-view
+   http://localhost/secureview
 
 ---
 ## 📌Use Cases
