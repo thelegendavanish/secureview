@@ -31,15 +31,6 @@ This solution is ideal for **examinations, legal documents, corporate reports, r
 
 ---
 
-## 🧩 System Architecture
-Admin → Upload PDF → Create Users → Set Time Window
-User → Login → System verifies time → Render PDF securely
-User → Submit Response via Form
-Admin → Monitor → Export Submissions
-
-
----
-
 ## 📁 Project Structure
 
 | File | Description |
@@ -57,7 +48,7 @@ Admin → Monitor → Export Submissions
 
 ## 🖥️ Tech Stack
 
-- **Backend:** PHP (Vanilla)  
+- **Backend:** PHP
 - **Frontend:** HTML, CSS, JavaScript  
 - **PDF Rendering:** PDF.js  
 - **Database:** MySQL (mysqli prepared statements)  
@@ -89,7 +80,7 @@ Admin → Monitor → Export Submissions
 
 ## 🧾 Public Submission Form
 
-Users submit their work via Google Drive link.
+Users submit their work/task via Google Drive link.
 
 **Fields:**
 - Name  
@@ -117,3 +108,26 @@ Form automatically blocks submissions if admin closes access.
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/secure-view.git
+
+2. Import database file into MySQL.
+3. Configure database credentials in db.php.
+4. Place project folder inside:
+   ```bash
+   htdocs/secure-view
+5. Open browser:
+   ```bash
+   http://localhost/secure-view
+
+---
+## Use Cases
+Online Exams & Certifications
+Legal & Compliance Documents
+Corporate Confidential Reports
+Academic Evaluations
+Government-sensitive records
+
+---
+
+## Conclusion
+
+Secure View is not just a PDF viewer — it is a secure document distribution framework that ensures complete ownership, traceability, and protection of sensitive information even after it has been shared.
