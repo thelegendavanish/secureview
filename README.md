@@ -1,3 +1,38 @@
+# 🔐 Secure View – Controlled PDF Viewing Platform
+
+Secure View is a secure, web-based PDF viewing system designed to protect confidential documents from unauthorized access, copying, downloading, and redistribution. It enables organizations to securely share sensitive PDF files while maintaining strict control over how and when the content is accessed.
+
+This solution is ideal for **examinations, legal documents, corporate reports, research material, academic evaluations, and government records**.
+
+---
+
+## 🚀 Key Highlights
+
+- Zero file exposure — PDFs are never downloaded to user devices  
+- Dynamic user-specific watermarking (Name, UID, IP Address)  
+- Time-locked access with real-time countdown expiry  
+- Screenshot mitigation mechanisms (supported browsers)  
+- Detailed audit logging and activity tracking  
+- Simple PHP-based architecture — deploys easily on shared hosting or XAMPP  
+
+---
+
+## 🛡️ Core Security Features
+
+| Feature | Description |
+|-------|-------------|
+| Copy / Download / Print Restriction | Prevents content extraction via browser shortcuts and UI controls |
+| Screenshot Protection | Detects and blocks screen-capture attempts in supported environments |
+| Dynamic Watermarking | Overlays viewer Name, UID, and IP address across the document |
+| Time-Based Expiry | Access automatically revokes after defined duration |
+| Granular User Control | Access is restricted per UID, email, IP, and expiry window |
+| Audit Logging | Every login is logged with timestamp and IP address |
+| Zero File Exposure | Original PDF never leaves the server |
+
+---
+
+## 🧩 System Architecture
+
 
 ---
 
